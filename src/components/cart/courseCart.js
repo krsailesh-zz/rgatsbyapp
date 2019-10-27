@@ -33,7 +33,7 @@ export default class CourseCart extends Component {
                                                 data-item-id={node.id}
                                                 data-item-name={node.title}
                                                 data-item-price={node.price}
-                                                data-item-url=""
+                                                data-item-url="https://jolly-bohr-4e55b0.netlify.com/"
                                             >
                                                 Join now
                                             </button>
