@@ -1,0 +1,48 @@
+.bg-theme {
+    background-color: #23527C;
+}
+.cart {
+    font-size: 1.2em;
+}
+.heroClass {
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    flex-direction: column;
+}
+.about-us{
+    background-color: #FFFAE0;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
+.our-team{
+    background-color: #61DAFB;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
+.aboutClass {
+    min-height: 60vh;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    flex-direction: column;
+}
+.servicesClass{
+    min-height: 60vh;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    flex-direction: column;
+}
+
+/* course cart css starts here */
+
+.all-courses{
+    display: inline;
+    background-color: rgb(219, 36, 36);
+}
+
+/* course cart css ends here */
