@@ -13,12 +13,19 @@ export default class Header extends Component {
             id : 1,
             text : "Home",
             url : "/"
-        } , {
+        } ,
+        {
             id : 2,
             text : "About Us",
             url : "/about"
-        } , {
+        } ,
+        {
             id : 3,
+            text : "Contact Us",
+            url : "/contact"
+        } ,
+        {
+            id : 4,
             text : "Services",
             url : "/services"
         }]
